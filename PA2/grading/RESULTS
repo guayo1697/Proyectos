@@ -1,0 +1,14 @@
+	-1 (atoi)	 the atoi program
+	-1 (baddispatch1)	 bad dispatch syntax
+	-1 (casemultiplebranch)	 a case with multiple branches
+	-1 (complex)	 a short program
+	-1 (dispatcharglist)	 dispatch with several arguments
+	-1 (dispatchnoargs)	 dispatch with no arguments
+	-1 (dispatchonearg)	 dispatch with one argument
+	-1 (firstclasserrored)	 error recovery after a bad class declaration
+	-1 (letinitmultiplebindings)	 let expression with multiple bindings
+	-1 (multipleatdispatches)	 at dispatches with differing numbers of arguments
+	-1 (multipleclasses)	 multiple classes in a file
+	-1 (multipledispatches)	 dispatches with differing numbers of arguments
+	-1 (nestedlet)	 nested let expressions with different numbers of bindings
+	-1 (staticdispatchnoargs)	 static dispatch with no args

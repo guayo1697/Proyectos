@@ -1,0 +1,6 @@
+"./multipleatdispatches.test", line 3: parse error at or near '@'
+"./multipleatdispatches.test", line 5: parse error at or near '@'
+"./multipleatdispatches.test", line 7: parse error at or near '('
+"./multipleatdispatches.test", line 8: parse error at or near '('
+"./multipleatdispatches.test", line 9: parse error at or near '('
+Compilation halted due to lex and parse errors
